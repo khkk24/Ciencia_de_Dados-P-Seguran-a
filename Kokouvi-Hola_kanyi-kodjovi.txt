@@ -1,0 +1,11 @@
+https://github.com/khkk24/Ciencia_de_Dados-P-Seguran-a.git
+
+1-)https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda
+
+Justificativa: Nesse link tem varios dados que refleta o dia dia  da população Brazileira que é o assunto do preço dos combustiveis.
+Será um ótimo database para coletar os dados e analysar o comportamento das empresas fornecidores e os consumidores
+
+2-)http://catalogo.governoaberto.sp.gov.br/dataset
+
+Justificativa: Nesse link tem varios dados dos assuntos de ordem publica tais como : a saude , a politica, a educação etc... 
+Escolhi pois tem como coletar dados e analisar . 
